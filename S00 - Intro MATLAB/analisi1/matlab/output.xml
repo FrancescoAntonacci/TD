@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?><embeddedOutputs><metaData><evaluationState>manual</evaluationState><layoutState>code</layoutState><outputStatus>ready</outputStatus><splitterState><proportion>0.4</proportion></splitterState></metaData><outputArray type="array"><element><type>matrix</type><outputData><header></header><name>data</name><varSize>2001×3</varSize><rows>2001</rows><columns>3</columns><varType>double</varType><value>    9.5000    0.0656   -0.3672
+    9.4905    0.0682   -0.3671
+    9.4810    0.0512   -0.3670
+    9.4715    0.0672   -0.3670
+    9.4620    0.0623   -0.3671
+    9.4525    0.0552   -0.3671
+    9.4430    0.0596   -0.3672
+    9.4335    0.0576   -0.3673
+    9.4240    0.0645   -0.3672
+    9.4145    0.0658   -0.3672
+</value><type>double</type><subtype>double</subtype><prepopulatedData type="array"><element type="array"><element>{"value":"9.5000"}</element><element>{"value":"0.0656"}</element><element>{"value":"-0.3672"}</element></element><element type="array"><element>{"value":"9.4905"}</element><element>{"value":"0.0682"}</element><element>{"value":"-0.3671"}</element></element><element type="array"><element>{"value":"9.4810"}</element><element>{"value":"0.0512"}</element><element>{"value":"-0.3670"}</element></element><element type="array"><element>{"value":"9.4715"}</element><element>{"value":"0.0672"}</element><element>{"value":"-0.3670"}</element></element><element type="array"><element>{"value":"9.4620"}</element><element>{"value":"0.0623"}</element><element>{"value":"-0.3671"}</element></element><element type="array"><element>{"value":"9.4525"}</element><element>{"value":"0.0552"}</element><element>{"value":"-0.3671"}</element></element><element type="array"><element>{"value":"9.4430"}</element><element>{"value":"0.0596"}</element><element>{"value":"-0.3672"}</element></element><element type="array"><element>{"value":"9.4335"}</element><element>{"value":"0.0576"}</element><element>{"value":"-0.3673"}</element></element><element type="array"><element>{"value":"9.4240"}</element><element>{"value":"0.0645"}</element><element>{"value":"-0.3672"}</element></element><element type="array"><element>{"value":"9.4145"}</element><element>{"value":"0.0658"}</element><element>{"value":"-0.3672"}</element></element></prepopulatedData></outputData><lineNumbers type="array"><element>1</element></lineNumbers></element><element><type>matrix</type><outputData><header></header><name>Vcount</name><varSize>2001×1</varSize><rows>2001</rows><columns>1</columns><varType>double</varType><value>    9.5000
+    9.4905
+    9.4810
+    9.4715
+    9.4620
+    9.4525
+    9.4430
+    9.4335
+    9.4240
+    9.4145
+</value><type>double</type><subtype>double</subtype><prepopulatedData type="array"><element>{"value":"9.5000"}</element><element>{"value":"9.4905"}</element><element>{"value":"9.4810"}</element><element>{"value":"9.4715"}</element><element>{"value":"9.4620"}</element><element>{"value":"9.4525"}</element><element>{"value":"9.4430"}</element><element>{"value":"9.4335"}</element><element>{"value":"9.4240"}</element><element>{"value":"9.4145"}</element></prepopulatedData></outputData><lineNumbers type="array"><element>3</element></lineNumbers></element><element><type>matrix</type><outputData><header></header><name>S_FP</name><varSize>2001×1</varSize><rows>2001</rows><columns>1</columns><varType>double</varType><value>    0.0656
+    0.0682
+    0.0512
+    0.0672
+    0.0623
+    0.0552
+    0.0596
+    0.0576
+    0.0645
+    0.0658
+</value><type>double</type><subtype>double</subtype><prepopulatedData type="array"><element>{"value":"0.0656"}</element><element>{"value":"0.0682"}</element><element>{"value":"0.0512"}</element><element>{"value":"0.0672"}</element><element>{"value":"0.0623"}</element><element>{"value":"0.0552"}</element><element>{"value":"0.0596"}</element><element>{"value":"0.0576"}</element><element>{"value":"0.0645"}</element><element>{"value":"0.0658"}</element></prepopulatedData></outputData><lineNumbers type="array"><element>4</element></lineNumbers></element><element><type>matrix</type><outputData><header></header><name>S_Rb</name><varSize>2001×1</varSize><rows>2001</rows><columns>1</columns><varType>double</varType><value>   -0.3672
+   -0.3671
+   -0.3670
+   -0.3670
+   -0.3671
+   -0.3671
+   -0.3672
+   -0.3673
+   -0.3672
+   -0.3672
+</value><type>double</type><subtype>double</subtype><prepopulatedData type="array"><element>{"value":"-0.3672"}</element><element>{"value":"-0.3671"}</element><element>{"value":"-0.3670"}</element><element>{"value":"-0.3670"}</element><element>{"value":"-0.3671"}</element><element>{"value":"-0.3671"}</element><element>{"value":"-0.3672"}</element><element>{"value":"-0.3673"}</element><element>{"value":"-0.3672"}</element><element>{"value":"-0.3672"}</element></prepopulatedData></outputData><lineNumbers type="array"><element>5</element></lineNumbers></element><element><type>matrix</type><outputData><header></header><name>S_Rb</name><varSize>2001×1</varSize><rows>2001</rows><columns>1</columns><varType>double</varType><value>    0.3672
+    0.3671
+    0.3670
+    0.3670
+    0.3671
+    0.3671
+    0.3672
+    0.3673
+    0.3672
+    0.3672
+</value><type>double</type><savedData>[["{\"value\":\"0.3672\"}"],["{\"value\":\"0.3671\"}"],["{\"value\":\"0.3670\"}"],["{\"value\":\"0.3670\"}"],["{\"value\":\"0.3671\"}"],["{\"value\":\"0.3671\"}"],["{\"value\":\"0.3672\"}"],["{\"value\":\"0.3673\"}"],["{\"value\":\"0.3672\"}"],["{\"value\":\"0.3672\"}"]]</savedData><subtype>double</subtype><prepopulatedData type="array"><element>{"value":"0.3672"}</element><element>{"value":"0.3671"}</element><element>{"value":"0.3670"}</element><element>{"value":"0.3670"}</element><element>{"value":"0.3671"}</element><element>{"value":"0.3671"}</element><element>{"value":"0.3672"}</element><element>{"value":"0.3673"}</element><element>{"value":"0.3672"}</element><element>{"value":"0.3672"}</element></prepopulatedData></outputData><lineNumbers type="array"><element>7</element></lineNumbers></element><element><type>matrix</type><outputData><header></header><name>PKS</name><varSize>613×1</varSize><rows>613</rows><columns>1</columns><varType>double</varType><value>    0.0682
+    0.0672
+    0.0596
+    0.0658
+    0.0690
+    0.0673
+    0.0662
+    0.0669
+    0.0676
+    0.0661
+</value><type>double</type><subtype>double</subtype><prepopulatedData type="array"><element>{"value":"0.0682"}</element><element>{"value":"0.0672"}</element><element>{"value":"0.0596"}</element><element>{"value":"0.0658"}</element><element>{"value":"0.0690"}</element><element>{"value":"0.0673"}</element><element>{"value":"0.0662"}</element><element>{"value":"0.0669"}</element><element>{"value":"0.0676"}</element><element>{"value":"0.0661"}</element></prepopulatedData></outputData><lineNumbers type="array"><element>12</element></lineNumbers></element><element><type>matrix</type><outputData><header></header><name>LOCS</name><varSize>613×1</varSize><rows>613</rows><columns>1</columns><varType>double</varType><value>     2
+     4
+     7
+    10
+    12
+    15
+    18
+    20
+    23
+    25
+</value><type>double</type><subtype>double</subtype><prepopulatedData type="array"><element>{"value":"2"}</element><element>{"value":"4"}</element><element>{"value":"7"}</element><element>{"value":"10"}</element><element>{"value":"12"}</element><element>{"value":"15"}</element><element>{"value":"18"}</element><element>{"value":"20"}</element><element>{"value":"23"}</element><element>{"value":"25"}</element></prepopulatedData></outputData><lineNumbers type="array"><element>12</element></lineNumbers></element><element><type>matrix</type><outputData><header></header><name>NN</name><varSize>1×613</varSize><rows>1</rows><columns>613</columns><varType>double</varType><value>     1     2     3     4     5     6     7     8     9    10    11    12    13    14    15    16    17    18    19    20    21    22    23    24    25    26    27    28    29    30    31    32    33    34    35    36    37    38    39    40    41    42    43    44    45    46    47    48    49    50
+</value><type>double</type><subtype>double</subtype><prepopulatedData type="array"><element>{"value":"1"}</element><element>{"value":"2"}</element><element>{"value":"3"}</element><element>{"value":"4"}</element><element>{"value":"5"}</element><element>{"value":"6"}</element><element>{"value":"7"}</element><element>{"value":"8"}</element><element>{"value":"9"}</element><element>{"value":"10"}</element><element>{"value":"11"}</element><element>{"value":"12"}</element><element>{"value":"13"}</element><element>{"value":"14"}</element><element>{"value":"15"}</element><element>{"value":"16"}</element><element>{"value":"17"}</element><element>{"value":"18"}</element><element>{"value":"19"}</element><element>{"value":"20"}</element><element>{"value":"21"}</element><element>{"value":"22"}</element><element>{"value":"23"}</element><element>{"value":"24"}</element><element>{"value":"25"}</element><element>{"value":"26"}</element><element>{"value":"27"}</element><element>{"value":"28"}</element><element>{"value":"29"}</element><element>{"value":"30"}</element></prepopulatedData></outputData><lineNumbers type="array"><element>13</element></lineNumbers></element><element><type>variableString</type><outputData><name>myfun</name><value>    @(p,x)p(1)+p(2)*x
+</value><truncationInfo><wasTruncatedMidLine>false</wasTruncatedMidLine><wasTruncatedAtLineBreak>false</wasTruncatedAtLineBreak></truncationInfo><header>&lt;a href="matlab:helpPopup('function_handle')" class="headerDataType"&gt;function_handle&lt;/a&gt; with value:</header><rows>1</rows><columns>1</columns></outputData><lineNumbers type="array"><element>15</element></lineNumbers></element><element><type>figure</type><outputData><figureId>90215d26-b6af-44b6-b50d-dc8e0e4d2edf</figureId><figureUri>data:image/png;base64,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</figureUri><figureSize type="array"><element>510</element><element>383</element></figureSize><themeMode>auto</themeMode><regionNumbers type="array"><element>8</element></regionNumbers><originalRegionNumber>8</originalRegionNumber></outputData><lineNumbers type="array"><element>16</element></lineNumbers></element><element><type>matrix</type><outputData><header></header><name>beta0</name><varSize>1×2</varSize><rows>1</rows><columns>2</columns><varType>double</varType><value>     1     1
+</value><type>double</type><subtype>double</subtype><prepopulatedData type="array"><element>{"value":"1"}</element><element>{"value":"1"}</element></prepopulatedData></outputData><lineNumbers type="array"><element>17</element></lineNumbers></element><element><type>text</type><outputData><text> &lt;strong&gt;nlinfit&lt;/strong&gt; Nonlinear least-squares regression.
+    BETA = &lt;strong&gt;nlinfit&lt;/strong&gt;(X,Y,MODELFUN,BETA0) estimates the coefficients of a
+    nonlinear regression function, using least squares estimation.  Y is a
+    vector of response (dependent variable) values.  Typically, X is a
+    design matrix of predictor (independent variable) values, with one row
+    for each value in Y and one column for each coefficient.  However, X
+    may be any array that MODELFUN is prepared to accept.  MODELFUN is a
+    function, specified using @, that accepts two arguments, a coefficient
+    vector and the array X, and returns a vector of fitted Y values.  BETA0
+    is a vector containing initial values for the coefficients.
+ 
+    [BETA,R,J,COVB,MSE] = &lt;strong&gt;nlinfit&lt;/strong&gt;(X,Y,MODELFUN,BETA0) returns the fitted
+    coefficients BETA, the residuals R, the Jacobian J of MODELFUN, the
+    estimated covariance matrix COVB for the fitted coefficients, and an
+    estimate MSE of the variance of the error term.  You can use these
+    outputs with NLPREDCI to produce confidence intervals for predictions,
+    and with NLPARCI to produce confidence intervals for the estimated
+    coefficients.  If you use a robust option (see below), you must use
+    COVB and may need MSE as input to NLPREDCI or NLPARCI to insure that
+    the confidence intervals take the robust fit properly into account.
+ 
+    [...] = &lt;strong&gt;nlinfit&lt;/strong&gt;(X,Y,MODELFUN,BETA0,OPTIONS) specifies control parameters
+    for the algorithm used in &lt;strong&gt;nlinfit&lt;/strong&gt;.  OPTIONS is a structure that can be
+    created by a call to STATSET.  Applicable STATSET parameters are:
+ 
+       'MaxIter'     - Maximum number of iterations allowed.  Defaults to 100.
+       'TolFun'      - Termination tolerance on the residual sum of squares.
+                       Defaults to 1e-8.
+       'TolX'        - Termination tolerance on the estimated coefficients
+                       BETA.  Defaults to 1e-8.
+       'Display'     - Level of display output during estimation.  Choices
+                       are 'off' (the default), 'iter', or 'final'.
+       'DerivStep'   - Relative difference used in finite difference gradient
+                       calculation.  May be a scalar, or the same size as
+                       the parameter vector BETA.  Defaults to EPS^(1/3).
+       'FunValCheck' - Check for invalid values, such as NaN or Inf, from
+                       the objective function.  'off' or 'on' (default).
+       'RobustWgtFun'- A weight function for robust fitting. Valid functions
+                       are 'bisquare', 'andrews', 'cauchy', 'fair', 'huber',
+                       'logistic', 'talwar', or 'welsch'. Default is '' (no
+                       robust fitting). Can also be a function handle that
+                       accepts a normalized residual as input and returns
+                       the robust weights as output.
+       'Robust'      - Robust will be removed in a future release. Use
+                       RobustWgtFun to invoke the robust fitting option.
+       'WgtFun'      - WgtFun will be removed in the future release. Use
+                       RobustWgtFun instead.
+       'Tune'        - The tuning constant used in robust fitting to normalize the
+                       residuals before applying the weight function.  A positive
+                       scalar.  The default value depends upon the weight function.
+                       This parameter is required if the weight function is
+                       specified as a function handle.
+ 
+    [BETA,R,J,COVB,MSE] = &lt;strong&gt;nlinfit&lt;/strong&gt;(X,Y,MODELFUN,BETA0,OPTIONS,...,'Weights',W)
+    nlinfit can accept an optional parameter name/value pair that specifies 
+    the observation weights:
+  
+      'Weights'        A vector of real positive weights the same size as Y, 
+                       each element of which specifies an observation weight. 
+                       Reducing the weight of an observation reduces the 
+                       influence of that observation on the fitted model. 
+                       This can also be specified as a function handle that 
+                       accepts a vector of predicted response values and 
+                       returns a vector of real positive weights as output. 
+                       Default is no weights.
+  
+     OPTIONS.RobustWgtFun must be [] when using observation weights. R and J
+     are weighted residuals and a weighted model function Jacobian respectively.
+     When J has full column rank, outputs MSE and R are related by: 
+                     MSE = (R'*R)/(n-p) 
+     where (n-p) = observations-parameters and COVB is related to J and MSE 
+     by:
+                    COVB = inv(J'*J) * MSE. 
+    
+    [BETA,R,J,COVB,MSE,ERRORMODELINFO] = &lt;strong&gt;nlinfit&lt;/strong&gt;(X,Y,MODELFUN,BETA0,OPTIONS,...
+                                             'ErrorModel',val1,'ErrorParameters',val2) 
+     nlinfit can also accept parameter name/value pairs that specify the error 
+     model and an initial estimate of error parameters to be used by nlinfit. 
+     These parameter name/value pairs are described below. 
+  
+      'ErrorModel'     A string specifying the form of the error term.
+                       Default is 'constant'. Each model defines the error
+                       using a standard zero mean and unit variance variable e
+                       with independent components, model function value f, 
+                       and one or two parameters a and b. The Choices for 
+                       val1 are:              
+                     
+                       'constant' (default)         y = f + a*e
+                       'proportional'               y = f + b*f*e
+                       'combined'                   y = f + (a+b*abs(f))*e
+ 
+                       If not specified, a 'constant' error model will be 
+                       used. The only allowed 'ErrorModel' when using 'Weights' 
+                       is 'constant'. OPTIONS.RobustWgtFun must be [] when 
+                       using error models other than 'constant'.
+ 
+    'ErrorParameters'  A numeric array containing initial estimates of the
+                       error model parameters of the chosen 'ErrorModel'. 
+                       Specify val2 as:   
+                      
+                       a       (default 1)       for 'constant'
+                       b       (default 1)       for 'proportional'
+                       [a b]   (default [1,1])   for 'combined'
+  
+                       For example, if 'ErrorModel' is 'combined', one could 
+                       use 'ErrorParameters' as [1,2]. If not specified, the 
+                       default values mentioned in brackets above will be used 
+                       as initial estimates.
+ 
+    The output ERRORMODELINFO is a structure with the following fields:
+ 
+                       ErrorModel   Chosen error model (default = 'constant')
+                  ErrorParameters   Estimated error parameters
+                    ErrorVariance   A function handle that accepts a n by p 
+                                    matrix X and computes a n by 1 vector of 
+                                    error variances using the specified error 
+                                    model.
+                              MSE   Mean squared error.
+                   ScheffeSimPred   Scheffe parameter for a simultaneous 
+                                    prediction interval when using this error 
+                                    model. 
+                   WeightFunction   True if a custom weight function was used
+                                    previously in nlinfit.
+                     FixedWeights   True if fixed weights were used previously
+                                    in nlinfit.
+             RobustWeightFunction   True if a robust fitting was used previously
+                                    in nlinfit.
+ 
+    When 'ErrorModel' is 'combined' or 'proportional', R and J can no
+    longer be interpreted as model fit residuals and model function
+    Jacobian respectively. When J has full column rank, outputs MSE and R
+    are related by:
+                     MSE = (R'*R)/(n-p) where (n-p) = observations-parameters 
+    and COVB is related to J and MSE by:
+                    COVB = inv(J'*J) * MSE 
+    
+    &lt;strong&gt;nlinfit&lt;/strong&gt; treats NaNs in Y or MODELFUN(BETA0,X) as missing data, and
+    ignores the corresponding observations.
+ 
+    Examples:
+ 
+       MODELFUN can be an anonymous function:
+          load reaction;
+          fun = @(beta,x)(beta(1)*x(:,2) - x(:,3)/beta(5)) ./ ...
+                         (1+beta(2)*x(:,1)+beta(3)*x(:,2)+beta(4)*x(:,3));
+          beta = nlinfit(reactants,rate,fun,beta);
+ 
+       MODELFUN can be a function on the path specified using @:
+          load reaction;
+          beta = nlinfit(reactants,rate,@hougen,beta);
+ 
+       For an example of weighted fitting, see the example "Weighted
+       Nonlinear Regression".
+ 
+    See also &lt;a href="matlab:help nlparci -displayBanner"&gt;nlparci&lt;/a&gt;, &lt;a href="matlab:help nlpredci -displayBanner"&gt;nlpredci&lt;/a&gt;, &lt;a href="matlab:help nlmefit -displayBanner"&gt;nlmefit&lt;/a&gt;, &lt;a href="matlab:help nlintool -displayBanner"&gt;nlintool&lt;/a&gt;, &lt;a href="matlab:help statset -displayBanner"&gt;statset&lt;/a&gt;.
+
+    &lt;a href="matlab:doc nlinfit"&gt;Documentation for nlinfit&lt;/a&gt;
+
+</text><truncationInfo><wasTruncatedAtLineBreak>false</wasTruncatedAtLineBreak><wasTruncatedMidLine>false</wasTruncatedMidLine></truncationInfo></outputData><lineNumbers type="array"><element>22</element></lineNumbers></element></outputArray><regionArray type="array"><element><code><sectionBreak>true</sectionBreak><endOfSection>false</endOfSection><regionNumber>0</regionNumber></code><startLine>0</startLine><endLine>0</endLine><outputIndexes type="array"><element>0</element></outputIndexes></element><element><code><sectionBreak>false</sectionBreak><endOfSection>false</endOfSection><regionNumber>1</regionNumber></code><startLine>2</startLine><endLine>2</endLine><outputIndexes type="array"><element>1</element></outputIndexes></element><element><code><sectionBreak>false</sectionBreak><endOfSection>false</endOfSection><regionNumber>2</regionNumber></code><startLine>3</startLine><endLine>3</endLine><outputIndexes type="array"><element>2</element></outputIndexes></element><element><code><sectionBreak>false</sectionBreak><endOfSection>false</endOfSection><regionNumber>3</regionNumber></code><startLine>4</startLine><endLine>4</endLine><outputIndexes type="array"><element>3</element></outputIndexes></element><element><code><sectionBreak>false</sectionBreak><endOfSection>false</endOfSection><regionNumber>4</regionNumber></code><startLine>6</startLine><endLine>6</endLine><outputIndexes type="array"><element>4</element></outputIndexes></element><element><code><sectionBreak>false</sectionBreak><endOfSection>false</endOfSection><regionNumber>5</regionNumber></code><startLine>11</startLine><endLine>11</endLine><outputIndexes type="array"><element>5</element><element>6</element></outputIndexes></element><element><code><sectionBreak>false</sectionBreak><endOfSection>false</endOfSection><regionNumber>6</regionNumber></code><startLine>12</startLine><endLine>12</endLine><outputIndexes type="array"><element>7</element></outputIndexes></element><element><code><sectionBreak>false</sectionBreak><endOfSection>false</endOfSection><regionNumber>7</regionNumber></code><startLine>14</startLine><endLine>14</endLine><outputIndexes type="array"><element>8</element></outputIndexes></element><element><code><sectionBreak>false</sectionBreak><endOfSection>false</endOfSection><regionNumber>8</regionNumber></code><startLine>15</startLine><endLine>15</endLine><outputIndexes type="array"><element>9</element></outputIndexes></element><element><code><sectionBreak>false</sectionBreak><endOfSection>false</endOfSection><regionNumber>9</regionNumber></code><startLine>16</startLine><endLine>16</endLine><outputIndexes type="array"><element>10</element></outputIndexes></element><element><code><sectionBreak>false</sectionBreak><endOfSection>true</endOfSection><regionNumber>10</regionNumber></code><startLine>23</startLine><endLine>23</endLine><outputIndexes type="array"><element>11</element></outputIndexes></element></regionArray></embeddedOutputs>

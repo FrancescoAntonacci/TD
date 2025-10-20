@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main"><w:body><w:p><w:pPr><w:pStyle w:val="code"/></w:pPr><w:r><w:t><![CDATA[data=readmatrix("dati_Rb.txt")
+
+Vcount=data(:,1)
+S_FP=data(:,2)
+S_Rb=data(:,3)
+
+S_Rb=-S_Rb
+
+%plot(Vcount,S_FP)
+%plot(Vcount,S_Rb)
+
+[PKS,LOCS]=findpeaks(S_FP)
+NN=linspace(1,length(PKS),length(PKS))
+
+myfun = @(p,x) p(1) + p(2)*x
+plot(NN,PKS)
+beta0=[1,1]
+%beta = nlinfit(NN,PKS, myfun, beta0)
+]]></w:t></w:r></w:p><w:p><w:pPr><w:sectPr/></w:pPr></w:p><w:p><w:pPr><w:pStyle w:val="text"/><w:jc w:val="left"/></w:pPr><w:r><w:t>monnezza utile</w:t></w:r></w:p><w:p><w:pPr><w:pStyle w:val="code"/></w:pPr><w:r><w:t><![CDATA[%plot(Vcount,S_FP)
+%plot(Vcount,S_Rb)
+help nlinfit
+]]></w:t></w:r></w:p></w:body></w:document>
